@@ -2,17 +2,17 @@ package lesson13;
 
 //User repository, part 1
 public class User {
-    private long id;
+    private Long id;
     private String name;
     private String sessionId;
 
-    public User(long id, String name, String sessionId) {
+    public User(Long id, String name, String sessionId) {
         this.id = id;
         this.name = name;
         this.sessionId = sessionId;
     }
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
@@ -22,14 +22,5 @@ public class User {
 
     public String getSessionId() {
         return sessionId;
-    }
-
-    @Override
-    public String toString() {
-        return "User{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", sessionId='" + sessionId + '\'' +
-                '}';
     }
 }
