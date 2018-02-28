@@ -1,7 +1,5 @@
 package lesson22.hw;
 
-import lesson22.hw.exception.BadRequestException;
-
 import java.util.Arrays;
 import java.util.Date;
 

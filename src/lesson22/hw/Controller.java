@@ -1,7 +1,5 @@
 package lesson22.hw;
 
-import lesson22.hw.exception.BadRequestException;
-
 public class Controller {
 
     public Transaction save (Transaction transaction) throws Exception

@@ -1,4 +1,4 @@
-package lesson22.hw.exception;
+package lesson22.hw;
 
 public class InternalServerException extends Exception {
 
