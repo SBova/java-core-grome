@@ -1,6 +1,4 @@
-package lesson22.hw;
-
-import lesson22.hw.BadRequestException;
+package lesson22hw;
 
 public class LimitExceeded extends BadRequestException {
 

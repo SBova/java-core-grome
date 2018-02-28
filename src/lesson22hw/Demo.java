@@ -1,4 +1,4 @@
-package lesson22.hw;
+package lesson22hw;
 
 import java.util.Arrays;
 import java.util.Date;

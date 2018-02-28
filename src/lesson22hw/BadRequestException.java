@@ -1,4 +1,4 @@
-package lesson22.hw;
+package lesson22hw;
 
 public class BadRequestException extends Exception {
 
