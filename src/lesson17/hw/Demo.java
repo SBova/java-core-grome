@@ -5,7 +5,7 @@ public class Demo {
         Solution solution = new Solution();
 
         String test = "Discover interesting projects and people to to to to populate your personal news feed.";
-        String test1 = "Class String is special cased within the Serialization Stream Protocol";
+        String test1 = "у тебя такие строки принимало например hghhghfggthfghgh ?";
 
         System.out.println(solution.countWords(test));
         System.out.println(solution.countWords(" "));
@@ -16,7 +16,7 @@ public class Demo {
         System.out.println(solution.minWord(" qwe"));
         System.out.println(solution.minWord(" qwe4"));
         System.out.println(solution.minWord(" qwe& "));
-        System.out.println(solution.maxWord(test));
+        System.out.println("Max words " + solution.maxWord(test1));
         System.out.println(solution.minWord(test));
 
         System.out.println(solution.mostCountedWord("qqq qqqq qqqq er ty qwerty"));

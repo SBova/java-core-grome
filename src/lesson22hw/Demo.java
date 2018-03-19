@@ -24,7 +24,7 @@ public class Demo {
         }
         controller.printTransactions();
 
-        System.out.println("\n\nTEST 2 add nurmal");
+        System.out.println("\n\nTEST 2 add normal");
 
         try {
             controller.save(tr1);
