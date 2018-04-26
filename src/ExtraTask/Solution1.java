@@ -1,7 +1,7 @@
 package ExtraTask;
 
 import java.util.*;
-public class Solution {
+public class Solution1 {
 
     public static Set<String> set = new LinkedHashSet();
 
@@ -16,4 +16,5 @@ public class Solution {
         for (String j : set) System.out.println(j);
 
     }
-}
+
+  }
