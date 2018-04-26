@@ -1,4 +1,4 @@
-package lesson27.homework.task1;
+package lesson27.task1;
 
 import java.util.LinkedList;
 

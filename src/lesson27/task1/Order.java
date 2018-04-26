@@ -1,4 +1,4 @@
-package lesson27.homework.task1;
+package lesson27.task1;
 
 public class Order {
     private long id;
